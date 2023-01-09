@@ -1,4 +1,1 @@
-### Hi there 👋
-
-# 👋 Hello! Welcome to my Github profile.
-## My name is Jhonathan and my nickname is "Jhon"!
+### 👋 Hello! My name is Jhonathan! Welcome to my Github profile.
