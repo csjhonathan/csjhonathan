@@ -48,8 +48,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjhonathan&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=csjhonathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
 <h2>Onde me encontrar?</h2>
 <div  align = "flex-start" style ="display: none;">
-  <p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> : jhonathancarv.s@gmail.com</p>
-  <p><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> : <a href="https://www.linkedin.com/in/jhonathancarv-s/">Jhonathan Carvalho</a></p>
+
+[![Send Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonathancarv.s@gmail.com)
+<a href="https://www.linkedin.com/in/jhonathancarv-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
