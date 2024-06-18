@@ -1,8 +1,8 @@
 ### Seja bem-vindo ao meu perfil, espero que tenha uma estadia agradável 😃
 
 <h2>Quem sou eu?</h2>
-<div  align="flex-start" style="display: none;">
-  <p>Meu nome é Jhonathan, tenho 23 anos, sou Desenvolvedor Web FullStack e utilizo JavaScript como ferramenta!</p>
+<div id="perfil" align="flex-start">
+  <p>Meu nome é Jhonathan, tenho <span id="idade"></span> anos, sou Desenvolvedor Web FullStack e utilizo JavaScript como ferramenta!</p>
   <p>Mas é claro que minha história tem um começo! Antes de conhecer o mundo da tecnologia, eu tentei diversos caminhos, fui músico, ingressei na graduação de Filosofia, e até eletricista eu tentei ser. Porém foi somente quando encontrei a área de desenvolvimento que me senti verdadeiramente realizado, onde eu poderia utilizar melhor minhas capacidades de lógica, raciocínio e abstração da maneira mais divertida: resolvendo problemas através do código!</p>
 </div>
 
@@ -58,3 +58,23 @@
   [![Send Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonathancarv.s@gmail.com)
   <a href="https://www.linkedin.com/in/jhonathancarv-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    function calcularIdade(dataNascimento) {
+      const hoje = new Date();
+      const nascimento = new Date(dataNascimento);
+      let idade = hoje.getFullYear() - nascimento.getFullYear();
+      const mes = hoje.getMonth() - nascimento.getMonth();
+      if (mes < 0 || (mes === 0 && hoje.getDate() < nascimento.getDate())) {
+        idade--;
+      }
+      return idade;
+    }
+
+    const dataNascimento = '2000-01-01'; // Substitua pela sua data de nascimento
+    const idade = calcularIdade(dataNascimento);
+    document.getElementById('idade').textContent = idade;
+  });
+</script>
