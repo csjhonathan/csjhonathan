@@ -73,8 +73,8 @@
       return idade;
     }
 
-    const dataNascimento = '2000-01-01'; // Substitua pela sua data de nascimento
+    const dataNascimento = '1999-11-20'; // Substitua pela sua data de nascimento
     const idade = calcularIdade(dataNascimento);
-    document.getElementById('idade').textContent = idade;
+    document.querySelector('#idade').innerHTML = idade;
   });
 </script>
