@@ -15,7 +15,7 @@ jobs:
       - name: Update age in README
         run: |
           CURRENT_DATE=$(date +%Y-%m-%d)
-          BIRTH_DATE="1999-20-11" # Substitua com sua data de nascimento no formato YYYY-MM-DD
+          BIRTH_DATE="1999-11-20" # Substitua com sua data de nascimento no formato YYYY-MM-DD
 
           # Calcula a idade
           CURRENT_YEAR=$(date -d "$CURRENT_DATE" +%Y)
