@@ -14,9 +14,23 @@ jobs:
 
       - name: Update age in README
         run: |
-          CURRENT_YEAR=$(date +%Y)
-          BIRTH_YEAR=1999
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          BIRTH_DATE="1999-20-11" # Substitua com sua data de nascimento no formato YYYY-MM-DD
+
+          # Calcula a idade
+          CURRENT_YEAR=$(date -d "$CURRENT_DATE" +%Y)
+          BIRTH_YEAR=$(date -d "$BIRTH_DATE" +%Y)
+          CURRENT_MONTH=$(date -d "$CURRENT_DATE" +%m)
+          BIRTH_MONTH=$(date -d "$BIRTH_DATE" +%m)
+          CURRENT_DAY=$(date -d "$CURRENT_DATE" +%d)
+          BIRTH_DAY=$(date -d "$BIRTH_DATE" +%d)
+
           AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+
+          if [ "$CURRENT_MONTH" -lt "$BIRTH_MONTH" ] || { [ "$CURRENT_MONTH" -eq "$BIRTH_MONTH" ] && [ "$CURRENT_DAY" -lt "$BIRTH_DAY" ]; }; then
+            AGE=$((AGE - 1))
+          fi
+
           sed -i "s/tenho .* anos/tenho $AGE anos/" README.md
 
       - name: Commit and push changes
@@ -27,4 +41,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Atualiza a idade no README"
-          git push https://github-actions:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git push https://csjhonathan:${GH_TOKEN}@github.com/csjhonathan/csjhonathan.git
