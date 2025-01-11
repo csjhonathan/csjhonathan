@@ -43,11 +43,13 @@ jobs:
           # Sincroniza com o repositório remoto para garantir que está atualizado
           git fetch origin main
           git checkout main
-          git pull --rebase origin main
 
+          # Garante que as mudanças sejam comitadas
           git add README.md
           git commit -m "Atualiza a idade no README" || echo "Nenhuma alteração a ser feita"
           
+          # Agora, faz o pull com rebase
+          git pull --rebase origin main
+
           # Realiza o push após o rebase
           git push https://csjhonathan:${GH_TOKEN}@github.com/csjhonathan/csjhonathan.git
-
