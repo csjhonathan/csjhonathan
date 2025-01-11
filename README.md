@@ -2,7 +2,7 @@
 
 <h2>Quem sou eu?</h2>
 <div id="perfil" align="flex-start">
-  <p>Meu nome é Jhonathan, tenho 24 anos, sou Desenvolvedor Web FullStack e utilizo JavaScript como ferramenta!</p>
+  <p>Meu nome é Jhonathan, tenho <span id="idade">XX</span> anos, sou Desenvolvedor Web FullStack e utilizo JavaScript como ferramenta!</p>
   <p>Mas é claro que minha história tem um começo! Antes de conhecer o mundo da tecnologia, eu tentei diversos caminhos, fui músico, ingressei na graduação de Filosofia, e até eletricista eu tentei ser. Porém foi somente quando encontrei a área de desenvolvimento que me senti verdadeiramente realizado, onde eu poderia utilizar melhor minhas capacidades de lógica, raciocínio e abstração da maneira mais divertida: resolvendo problemas através do código!</p>
 </div>
 
