@@ -20,8 +20,11 @@ jobs:
           sed -i "s/tenho .* anos/tenho $AGE anos/" README.md
 
       - name: Commit and push changes
+        env:
+          GH_TOKEN_REPO_CSJHONATHAN: ${{ secrets.GH_TOKEN_REPO_CSJHONATHAN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "Atualiza a idade no README"
-          git push
+          git add README.md
+          git commit -m "Atualiza a idade no README"
+          git push https://github-actions:${GH_TOKEN_REPO_CSJHONATHAN}@github.com/${{ github.repository }}.git
