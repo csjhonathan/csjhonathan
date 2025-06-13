@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
 </div>
 
+---
+
 <div align="flex-start" style="display: none;">
   <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
   <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=%231558BC">
