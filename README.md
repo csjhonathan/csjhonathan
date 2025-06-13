@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-white?style=for-the-badge&logo=Ruby%20on%20rails&logoColor=red">
-  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/react-native-%2358C4DC?style=for-the-badge&logo=react&logoColor=blue">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,6 +31,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
   
   <h3>Ferramentas:</h3>
+  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
