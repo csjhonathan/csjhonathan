@@ -25,7 +25,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,ruby,rails,react,react-native,nodejs,html,css,postgres,mongodb,prisma,jest,nestjs,express,postman,linux,vercel,render,swagger,insomnia,notion,trello,eslint,prettier,vite,npm,axios,babel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,ruby,rails,react,react_native,nodejs,html,css,postgres,mongodb,prisma,jest,nestjs,express,postman,linux,vercel,render,swagger,insomnia,notion,trello,eslint,prettier,vite,npm,axios,babel" />
 </div>
 
 ---
