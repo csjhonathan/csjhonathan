@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-white?style=for-the-badge&logo=Ruby%20on%20rails&logoColor=red">
   <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
+  <img src="https://img.shields.io/badge/react-native-%2358C4DC?style=for-the-badge&logo=react&logoColor=blue">
   
   <h3>Ferramentas:</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
