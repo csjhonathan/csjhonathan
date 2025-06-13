@@ -25,7 +25,6 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="flex-start" style="display: none;">
-  <h3>Tecnologias:</h3>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
@@ -41,8 +40,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-  
-  <h3>Ferramentas:</h3>
+---
   <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
   <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=%231558BC">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
