@@ -2,7 +2,7 @@
 
 <h2>Quem sou eu?</h2>
 <div id="perfil" align="flex-start">
-  <p>Meu nome é Jhonathan, tenho 25 anos, sou Desenvolvedor Web FullStack e utilizo JavaScript como ferramenta!</p>
+  <p>Meu nome é Jhonathan, tenho 25 anos, sou Desenvolvedor Web FullStack e utilizo JavaScript e Ruby como ferramenta!</p>
   <p>Mas é claro que minha história tem um começo! Antes de conhecer o mundo da tecnologia, eu tentei diversos caminhos, fui músico, ingressei na graduação de Filosofia, e até eletricista eu tentei ser. Porém foi somente quando encontrei a área de desenvolvimento que me senti verdadeiramente realizado, onde eu poderia utilizar melhor minhas capacidades de lógica, raciocínio e abstração da maneira mais divertida: resolvendo problemas através do código!</p>
 </div>
 
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
   
   <h3>Ferramentas:</h3>
