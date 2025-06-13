@@ -8,7 +8,7 @@
 
 <div id="perfil" align="left">
   <p>👋 Olá! Meu nome é <b>Jhonathan</b>, tenho 25 anos e sou <b>Desenvolvedor Web FullStack</b> apaixonado por tecnologia!</p>
-  <p>🎸 Antes de mergulhar no mundo do código, fui músico, tentei Filosofia, até eletricista eu fui! Mas foi na programação que encontrei meu propósito: resolver problemas de forma criativa e divertida, usando lógica, raciocínio e muita abstração.</p>
+  <p>🎸 Mas é claro que minha história tem um começo! Antes de conhecer o mundo da tecnologia, eu tentei diversos caminhos, fui músico, ingressei na graduação de Filosofia, e até eletricista eu tentei ser. Porém foi somente quando encontrei a área de desenvolvimento que me senti verdadeiramente realizado, onde eu poderia utilizar melhor minhas capacidades de lógica, raciocínio e abstração da maneira mais divertida: resolvendo problemas através do código!</p>
 </div>
 
 ---
