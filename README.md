@@ -14,10 +14,10 @@
 <h2>O que eu utilizo no dia a dia?</h2>
 <div align="flex-start" style="display: none;">
   <h3>Tecnologias:</h3>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-white?style=for-the-badge&logo=Ruby%20on%20rails&logoColor=red">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/react-native-%2358C4DC?style=for-the-badge&logo=react&logoColor=blue">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
