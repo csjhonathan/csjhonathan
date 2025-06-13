@@ -14,11 +14,15 @@
 <h2>O que eu utilizo no dia a dia?</h2>
 <div align="flex-start" style="display: none;">
   <h3>Tecnologias:</h3>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-white?style=for-the-badge&logo=Ruby%20on%20rails&logoColor=red">
+  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/react-native-%2358C4DC?style=for-the-badge&logo=react&logoColor=blue">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -26,10 +30,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-white?style=for-the-badge&logo=Ruby%20on%20rails&logoColor=red">
-  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
-  <img src="https://img.shields.io/badge/react-native-%2358C4DC?style=for-the-badge&logo=react&logoColor=blue">
   
   <h3>Ferramentas:</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000">
+  <img src="https://img.shields.io/badge/babel-edit-%23503493?style=for-the-badge&logoColor=blue">
 </div>
 
 <h2>GitHub Stats</h2>
