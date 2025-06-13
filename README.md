@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=Ruby&logoColor=red">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-white?style=for-the-badge&logo=Ruby%20on%20rails&logoColor=red">
   
   <h3>Ferramentas:</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
