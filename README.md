@@ -32,6 +32,7 @@
   
   <h3>Ferramentas:</h3>
   <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman">
+  <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=%231558BC">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
